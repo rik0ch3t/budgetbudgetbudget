@@ -1,2 +1,6 @@
 /budgetbudgetbudget/db.sqlite3
-requirement.txt
+
+__pycache__/
+
+*.pyc
+*.pyo
